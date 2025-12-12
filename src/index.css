@@ -1,0 +1,15 @@
+body{
+    max-width: 90%;
+    margin: auto;
+} #root{
+    padding-top: 20px;
+} 
+@media (max-width:520px){
+    .lars{
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    } .hh{
+        text-align: center;
+    }
+}
